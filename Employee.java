@@ -1,4 +1,4 @@
-package com.bilhat.Infosysbilhat.entity;
+package com.bilhat.infosys.crudapp.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
